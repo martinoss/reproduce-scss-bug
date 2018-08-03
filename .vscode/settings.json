@@ -1,0 +1,8 @@
+{
+    "typescript.preferences.quoteStyle": "single",
+    "files.associations": {
+        ".env.development": "dotenv",
+        ".env.acceptance": "dotenv",
+        ".env.production": "dotenv"
+    }
+}
