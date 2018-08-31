@@ -11,6 +11,9 @@ import store from './store/store';
 import './index.scss';
 import { PersonsRoot } from './routes/routes';
 
+// tslint:disable-next-line:no-console
+console.log('index.js')
+
 function start(): void {
 
   const reduxStore = store;
